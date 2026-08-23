@@ -48,7 +48,7 @@ We evaluate the RAG pipeline using metrics adapted from the Walert paper:
 
 **Preliminary results:** Recall@1: 60%, Recall@5: 90%, MRR: 0.706, NDCG@5: 0.746
 
-See `docs/Milestone1_Report.docx` for full details.
+
 
 ## Project Management
 
