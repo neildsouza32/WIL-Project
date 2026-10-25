@@ -32,7 +32,7 @@ Sign and diagram-based content was deliberately excluded from scope, as it would
 | Embeddings | sentence-transformers (`all-MiniLM-L6-v2`) |
 | Vector store | ChromaDB |
 | LLM | Ollama (`llama3.2:3b`) |
-| Interface | Streamlit *(in progress)* |
+| Interface | Streamlit |
 | Evaluation | Recall@K, MRR, NDCG (retrieval); BERTScore, ROUGE-1 (answer quality, in progress) |
 
 
