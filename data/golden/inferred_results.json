@@ -1,0 +1,52 @@
+[
+  {
+    "id": "i01",
+    "question": "Can I drive if I've had a drink while I'm on medication?",
+    "answer": "I cannot find this information in the provided NSW Road User Handbook."
+  },
+  {
+    "id": "i02",
+    "question": "Do I need my headlights on at dusk?",
+    "answer": "According to page 185 of the NSW Road User Handbook, your headlights must be on: • when driving between sunset and sunrise."
+  },
+  {
+    "id": "i03",
+    "question": "What should I check before getting on the motorway?",
+    "answer": "Before driving on a motorway, make sure your vehicle has enough fuel, oil, and water, and the correct tyre pressure."
+  },
+  {
+    "id": "i04",
+    "question": "Can I just double park for a minute to grab something?",
+    "answer": "I cannot find this information in the provided NSW Road User Handbook."
+  },
+  {
+    "id": "i05",
+    "question": "It's pouring rain and I can barely see, what should I do?",
+    "answer": "You should turn on your headlights (if they don’t come on automatically), break gently to slow down, and increase the gap between you and the vehicle in front (crash avoidance space)."
+  },
+  {
+    "id": "i06",
+    "question": "What happens if I get caught cheating on the driving theory test?",
+    "answer": "I cannot find this information in the provided NSW Road User Handbook."
+  },
+  {
+    "id": "i07",
+    "question": "Do I have to let pedestrians go when I'm turning?",
+    "answer": "You must give way to pedestrians crossing the road that you're turning into."
+  },
+  {
+    "id": "i08",
+    "question": "There are kids playing near the road, how should I drive?",
+    "answer": "Take extra care near children playing, walking or riding bikes near the edge of the road."
+  },
+  {
+    "id": "i09",
+    "question": "My mate's kid won't put his seatbelt on in my car, who gets fined?",
+    "answer": "According to page 50 of the NSW Road User Handbook, you can get a fine for not wearing a seatbelt, and fines, demerit points, and double demerit points apply to seatbelt offences.\n\nSince your mate's kid is not wearing a seatbelt, and you are the driver, you can get a fine."
+  },
+  {
+    "id": "i10",
+    "question": "Light goes yellow and no one's around, do I go through?",
+    "answer": "According to page 119 of the NSW Road User Handbook, \"When the yellow light starts flashing, you can drive through the crossing if there are no pedestrians.\""
+  }
+]
